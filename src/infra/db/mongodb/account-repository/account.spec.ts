@@ -1,5 +1,4 @@
 import { MongoHelper } from "../helpers/mongo-helper";
-import nedbHelper from "../helpers/nedb-helper";
 import { AccountMongoRepository } from "./account";
 
 describe('Account mongo repository', () => {
